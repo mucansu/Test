@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5cf1e33-e50e-4103-b497-f34b783de3c9" name="Changes" comment="initial add2">
+    <list default="true" id="2e16edb1-360f-49ba-9b65-5fc1b89728f7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,13 +29,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f5cf1e33-e50e-4103-b497-f34b783de3c9" name="Changes" comment="" />
+      <changelist id="2e16edb1-360f-49ba-9b65-5fc1b89728f7" name="Changes" comment="" />
       <created>1667904161323</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
