@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5cf1e33-e50e-4103-b497-f34b783de3c9" name="Changes" comment="initial add" />
+    <list default="true" id="f5cf1e33-e50e-4103-b497-f34b783de3c9" name="Changes" comment="initial add2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,8 +55,33 @@
       <option name="project" value="LOCAL" />
       <updated>1667910148450</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial add1">
+      <created>1667911094214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667911094214</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial add2">
+      <created>1667911123409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667911123409</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -69,6 +96,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial add" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial add" />
+    <MESSAGE value="initial add1" />
+    <MESSAGE value="initial add2" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial add2" />
   </component>
 </project>
